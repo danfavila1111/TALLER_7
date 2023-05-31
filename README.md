@@ -5,4 +5,6 @@ agragar y almacenar datos a las tablas:
 
 =>Usuario.  
 =>Categoria.  
-=>Producto.
+=>Producto.  
+  
+Video mostrando funcionalidad del taller: https://youtu.be/LRbZSUqetBk
